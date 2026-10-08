@@ -13,7 +13,7 @@ export default function Education() {
     <section id="education">
       <div className="wrap">
         <div className="section-head">
-          <p className="section-eyebrow">// education</p>
+          
           <h2>Background &amp; certifications</h2>
         </div>
         <div className="timeline">

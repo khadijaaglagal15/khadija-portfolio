@@ -21,7 +21,7 @@ export default function Services() {
     <section id="services">
       <div className="wrap">
         <div className="section-head" style={{ textAlign: 'center' }}>
-          <p className="section-eyebrow" style={{ textAlign: 'center' }}>// what I do</p>
+        
           <h2>My <span style={{ color: 'var(--accent)' }}>Areas</span></h2>
         </div>
         <div className="services-accordion">
