@@ -46,7 +46,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="hero-photo-frame">
-           <img src="public/images/profile.png" alt="Khadija Aglagal" />
+           <img src="/images/profile.png" alt="Khadija Aglagal" />
           <svg viewBox="0 0 100 100" fill="none" stroke="#35D07F" strokeWidth="1.1">
             <circle cx="50" cy="36" r="18" />
             <path d="M18 90c4-22 20-32 32-32s28 10 32 32" />

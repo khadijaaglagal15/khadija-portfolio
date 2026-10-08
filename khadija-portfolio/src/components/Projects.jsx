@@ -9,7 +9,7 @@ const projects = [
     category: 'Mobile',
     tags: ['Django', 'React Native', 'MySQL'],
     tone: 'from-dark',
-    image: '/images/awal (1).PNG', // put your screenshot here, or leave it — falls back to a color block
+    image: '/images/hja.jpeg ', // put your screenshot here, or leave it — falls back to a color block
   },
   {
     index: '02',
@@ -19,7 +19,7 @@ const projects = [
     category: 'Blockchain',
     tags: ['Solidity', 'Ethereum', 'Web3', 'Tailwind', 'Remix', 'Node','Metamask','Express'],
     tone: 'from-plant',
-    image: '/public/images/pagrhome1.png',
+    image: '/images/pagrhome1.png',
   },
   {
     index: '03',
@@ -29,7 +29,7 @@ const projects = [
     category: 'Web',
     tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
     tone: 'from-desk',
-    image: '/public/images/site.png', // put your screenshot here, or leave it — falls back to a color block
+    image: '/images/site.png', // put your screenshot here, or leave it — falls back to a color block
   },
   {
     index: '04',
@@ -39,7 +39,7 @@ const projects = [
     category: 'Web',
     tags: ['Node.js', 'React', 'MongoDB'],
     tone: 'from-dark',
-    image: '/public/images/awal (1).PNG',
+    image: '/images/awal (1).PNG',
   },
    {
     index: '05',

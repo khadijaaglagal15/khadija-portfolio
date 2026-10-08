@@ -48,7 +48,7 @@ export default function About() {
 
           <div className="details-card">
             
-            <a href="/public/images/cv de khadija aglagal ENSIASD.pdf" download className="btn-primary details-download">
+            <a href="/images/cv de khadija aglagal ENSIASD.pdf" download className="btn-primary details-download">
               Download CV
             </a>
           </div>
