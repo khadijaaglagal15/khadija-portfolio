@@ -9,7 +9,7 @@ const projects = [
     category: 'Mobile',
     tags: ['Django', 'React Native', 'MySQL'],
     tone: 'from-dark',
-    image: '/public/images/hja.jpeg', // put your screenshot here, or leave it — falls back to a color block
+    image: '/images/awal (1).PNG', // put your screenshot here, or leave it — falls back to a color block
   },
   {
     index: '02',
@@ -50,7 +50,7 @@ const projects = [
     category: 'Web',
     tags: ['Python','Flask', 'Html','Css','Bootstrap','Javascript', 'Jupyter Notebook', 'sqlite'],
     tone: 'from-dark',
-    image: '/public/images/dashboard_pages_combined.png',
+   image: '/images/dashboard_pages_combined.png',
   },
 ];
 
