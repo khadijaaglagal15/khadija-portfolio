@@ -29,7 +29,7 @@ const projects = [
     category: 'Web',
     tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
     tone: 'from-desk',
-    image: '/images/site.png', // put your screenshot here, or leave it — falls back to a color block
+    image: '/images/site.PNG', // put your screenshot here, or leave it — falls back to a color block
   },
   {
     index: '04',
